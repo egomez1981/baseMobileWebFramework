@@ -1,0 +1,4 @@
+.view.tmpl-example h1 {
+  border-bottom: solid 4px transparent;
+  padding-bottom: 12px;
+}
